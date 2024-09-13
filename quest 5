@@ -1,0 +1,3 @@
+A ideia é a seguinte: você liga o primeiro interruptor e espera alguns minutos para a lâmpada esquentar. Depois, desliga esse interruptor, liga o segundo e vai até a sala das lâmpadas.
+
+Quando chegar lá, uma lâmpada vai estar acesa (é a do segundo interruptor, o que ficou ligado). A outra vai estar apagada, mas quente (é a do primeiro interruptor,o que esquentou antes de você desligar). E a última vai estar apagada e fria (porque você nunca ligou o terceiro interruptor).
