@@ -1,0 +1,10 @@
+int INDICE = 12, SOMA = 0, K = 1;
+enquanto K < INDICE faça {
+    K = K + 1;
+    SOMA = SOMA + K;
+}
+imprimir(SOMA);
+
+O loop ocorre enquanto K < INDICE, ou seja, enquanto K < 12
+A cada iteração, o valor de K é incrementado em 1 e, logo em seguida, esse novo valor de K é adicionado à variável SOMA
+O valor inicial de SOMA é 0, e o valor inicial de K é 1
