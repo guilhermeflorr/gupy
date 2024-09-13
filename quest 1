@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+
+bool pertenceFibonacci(int numero) {
+    int a = 0, b = 1, proximo = 0;
+    if (numero == 0 || numero == 1) return true;
+    while (proximo < numero) {
+        proximo = a + b;
+        a = b;
+        b = proximo;
+    }
+    return (proximo == numero);
+}
+int main() {
+    int numero;
+    cout << "Informe um número para verificar se pertence à sequência de Fibonacci: ";
+    cin >> numero;
+    
+    if (pertenceFibonacci(numero)) {
+        cout << "O número " << numero << " pertence à sequência de Fibonacci." << endl;
+    } else {
+        cout << "O número " << numero << " não pertence à sequência de Fibonacci." << endl;
+    }
+    return 0;
+}
