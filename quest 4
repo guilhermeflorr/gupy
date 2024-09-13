@@ -1,0 +1,17 @@
+a) 1, 3, 5, 7, 9
+Lógica: A sequência consiste em números ímpares crescentes. O próximo número ímpar é 9.
+
+b) 2, 4, 8, 16, 32, 64, 128
+Lógica: Cada número é o dobro do anterior. O próximo número será 64 × 2 = 128.
+
+c) 0, 1, 4, 9, 16, 25, 36, 49
+Lógica: Esta é a sequência dos quadrados perfeitos: 0², 1², 2², 3², 4², 5², 6², e o próximo é 7² = 49.
+
+d) 4, 16, 36, 64, 100
+Lógica: Esta é a sequência dos quadrados de números pares: 2², 4², 6², 8², e o próximo é 10² = 100.
+
+e) 1, 1, 2, 3, 5, 8, 13
+Lógica: Esta é a sequência de Fibonacci, em que cada número é a soma dos dois anteriores. O próximo número será 5 + 8 = 13.
+
+f) 2, 10, 12, 16, 17, 18, 19, 20
+Lógica: A sequência segue o padrão: depois de 2, os números maiores que 10 estão em ordem crescente, pulando alguns números no início. O próximo número é 20..
